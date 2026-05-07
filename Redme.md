@@ -20,7 +20,7 @@ This project is a browser-based image editing application built using Streamlit 
    streamlit run app.py
 
 ## Demo Video
-[Paste link here]
+[image_video.mp4]
 
 ## Screenshot
-(Add screenshot here)
+(image_app_screenshot.png)
