@@ -27,7 +27,7 @@ if st.sidebar.button("Reset"):
     st.rerun()
 
 # File upload
-uploaded_file=st.file_uploader("Upload Image",type=["jpg","jpeng","png"])
+uploaded_file=st.file_uploader("Upload Image",type=["jpg","jpeg","png"])
 
 if uploaded_file:
     image=utils.read_image(uploaded_file)
